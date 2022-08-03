@@ -1,4 +1,4 @@
-- Hi, I’m @bloknoss, I'm interested in coding tools for videogames.
+- Hi, I’m Blok, I'm a programmer that mostly develops automated tools with a GUI in C#.
 - I've coded the vast majority of my projects in C#, but have coded some in Python as well.</br>
 - If you want to talk with me you can add me on Discord: blok#4968
 
